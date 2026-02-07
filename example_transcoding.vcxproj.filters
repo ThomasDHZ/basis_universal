@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\DHZ\Documents\GitHub\VulkanGameEngine\External\BasisUniversal\example_transcoding\example_transcoding.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DHZ\Documents\GitHub\VulkanGameEngine\External\BasisUniversal\example_transcoding\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DHZ\Documents\GitHub\VulkanGameEngine\External\BasisUniversal\zstd\zstddeclib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DHZ\Documents\GitHub\VulkanGameEngine\External\BasisUniversal\transcoder\basisu_transcoder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\DHZ\Documents\GitHub\VulkanGameEngine\External\BasisUniversal\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DBD4B352-4F40-30BD-9B67-314A877A901F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

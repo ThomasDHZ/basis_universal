@@ -1,0 +1,7 @@
+C:/Users/DHZ/Documents/GitHub/VulkanGameEngine/External/BasisUniversal/CMakeFiles/basisu_encoder.dir
+C:/Users/DHZ/Documents/GitHub/VulkanGameEngine/External/BasisUniversal/CMakeFiles/basisu.dir
+C:/Users/DHZ/Documents/GitHub/VulkanGameEngine/External/BasisUniversal/CMakeFiles/example.dir
+C:/Users/DHZ/Documents/GitHub/VulkanGameEngine/External/BasisUniversal/CMakeFiles/example_capi.dir
+C:/Users/DHZ/Documents/GitHub/VulkanGameEngine/External/BasisUniversal/CMakeFiles/example_transcoding.dir
+C:/Users/DHZ/Documents/GitHub/VulkanGameEngine/External/BasisUniversal/CMakeFiles/ALL_BUILD.dir
+C:/Users/DHZ/Documents/GitHub/VulkanGameEngine/External/BasisUniversal/CMakeFiles/ZERO_CHECK.dir
